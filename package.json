@@ -1,0 +1,34 @@
+{
+  "name": "mobilefolk-rn-image-cache",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javis1205/mobilefolk-rn-image-cache.git"
+  },
+  "keywords": [
+    "mobilefolk",
+    "react-native",
+    "image-cache"
+  ],
+  "author": "javis nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Javis1205/mobilefolk-rn-image-cache/issues"
+  },
+  "devDependencies": {
+    "@types/react": "^16.0.5",
+    "@types/react-native": "^0.49.2",
+    "ts-npm-lint": "^0.1.0",
+    "tslint": "^4.4.2",
+    "typescript": "^2.1.6"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  },
+  "homepage": "https://github.com/Javis1205/mobilefolk-rn-image-cache#readme"
+}
